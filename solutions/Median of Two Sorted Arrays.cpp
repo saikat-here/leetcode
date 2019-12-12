@@ -39,8 +39,8 @@ public:
             nums3[k++]=nums2[j++];
         }
         /*
-          If the size of marged vector (nums3) is odd then it will have a Median position. Median possition will be (size of num3)/2
-          If the size of marged vector (num3) is even then there will be NO Median position, need to find the average of 2 middle possition.
+          If the size of merged vector (nums3) is odd then it will have a Median position. Median possition will be (size of num3)/2
+          If the size of merged vector (num3) is even then there will be NO Median position, need to find the average of 2 middle possition.
           So, the average value will be (nums3[nums3.size()/2]+nums3[(nums3.size()/2)-1])/2).
                     Example : [3,4,5,6] => Need tind average of 4 and 5. 
         */
