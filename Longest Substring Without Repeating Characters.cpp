@@ -1,6 +1,7 @@
 /*
     LeetCode Problem : Longest Substring Without Repeating Characters
     Algorithm : Sliding Window Technique (Dynamic)
+    Copyright (c) Saikat Sinha Ray
 */
 
 class Solution {
