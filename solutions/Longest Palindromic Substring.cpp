@@ -1,3 +1,8 @@
+/*
+    LeetCode Problem : Longest Palindromic Substring  
+    Copyright (c) Saikat Sinha Ray
+*/
+
 class Solution {
 public:
      string longestPalindrome(string s)
