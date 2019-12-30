@@ -1,3 +1,8 @@
+"""
+    LeetCode Problem : Container With Most Water
+    Copyright (c) Saikat Sinha Ray
+"""
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         
